@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Fertig</string>
+    <string name="saving_image">Speichere Bild</string>
+    <string name="preparing_card">Bereite Karte vor</string>
+    <string name="no_storage_card">Keine Speicherkarte</string>
+    <string name="not_enough_space">Nicht genug Speicherplatz</string>
+
+</resources>
